@@ -11,6 +11,6 @@ Defina um tema para desenvolvimento do seu projeto, desde que ele envolva os seg
 É OBRIGATÓRIO a implementação de todos estes conceitos nas classes do projeto. Todas classes devem possuir atributos e funcionalidades úteis.
 
 
-Aluno: Ivan de Oliveira Nantes
-Primeiro ano C. C.
-Sala 07
+- Aluno: Ivan de Oliveira Nantes
+- Primeiro ano C. C.
+- Sala 07
